@@ -3,7 +3,7 @@
 
 End-to-end analysis of an e-commerce sales dataset (~138,000 orders, 46 columns). The raw data was downloaded from Kaggle, cleaned with **Python (pandas)**, and analysed in a four-page **Power BI** dashboard covering sales, customers, operations and regional profitability.
 
-![Executive Overview](images/01_executive_overview.png)
+![Executive Overview](01_executive_overview.png)
 
 ## Business questions
 
@@ -47,7 +47,6 @@ The full process is in [`notebooks/ecommerce_data_cleaning.ipynb`](notebooks/eco
 | **Operations, Shipping & Returns** | Average delivery days, shipping cost, delivery status by warehouse, actual vs. estimated delivery by shipping method, returns |
 | **Regional Profitability** | Profit and margin by region and country, sales by payment method, whether discounts help or hurt profit |
 
-![Excecutive Overview](01_Executive_Overview.png)
 ![Customer Value & Loyalty](02_customer_value_loyalty.png)
 ![Operations, Shipping & Returns](03_operations_shipping_returns.png)
 ![Regional Profitability](04_regional_profitability.png)
