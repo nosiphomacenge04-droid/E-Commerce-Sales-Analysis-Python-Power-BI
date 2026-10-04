@@ -1,9 +1,8 @@
 # E-Commerce-Sales-Analysis-Python-Power-BI
-# E-Commerce Sales Analysis | Python + Power BI
 
 End-to-end analysis of an e-commerce sales dataset (~138,000 orders, 46 columns). The raw data was downloaded from Kaggle, cleaned with **Python (pandas)**, and analysed in a four-page **Power BI** dashboard covering sales, customers, operations and regional profitability.
 
-![Executive Overview](01_executive_overview.png)
+![Executive Overview](01_Executive_Overview.png)
 
 ## Business questions
 
